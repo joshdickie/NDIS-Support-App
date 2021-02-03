@@ -55,7 +55,7 @@ Android Studio will start the emulator and install the app. It should open the a
 
 ## Contributing
 Recommend using [Android Studio](#android-studio) as your IDE. I won't spend heaps of time selling it to you here, but suffice to say it can reduce the amount of XML you'll need to write by hand.  
-I'm not sure how testing is usually done with UI stuff, aside from just opening it on a bunch of different devices and manually stress-testing it, which sounds shitty. If you know how to automate this kind of testing, we can integrate that!
+I'm not sure how testing is usually done with UI stuff, aside from just opening it on a bunch of different devices and manually stress-testing it, which sounds shitty. If you know how to automate this kind of testing, we can integrate that!  
 I'll do my best to keep features off Main until they're shippable - generally I'm planning to make each activity of the app at least two issues: the layout, and the associated Kotlin functions. I'd personally consider a feature "shippable" if its asociated issue is finished up and closed (i.e. I might merge to include an activity that has a completed layout, but doesn't yet have associated functions). I won't merge an activity to Main if it has any half-finished features (i.e. the layout is complete, and the associated functions are half done).
 
 This is going to be a weekend thing for us mostly, so we can talk on Saturdays or whatever to catch up, show Dan what we've made and check in that he's happy with it, etc.
