@@ -22,7 +22,7 @@ TODO: RUN ON MY OWN PHONE TO FIGURE IT OUT
 ### Running on an Emulator
 Note: Creating a Virtual Device in order to run the emulator can take upwards of 9GB of storage space. If this space is not available, try [running on a physical device](#running-on-a-physical-device) instead.
 
-#### Create a Virtual Device
+### Create a Virtual Device
 A Virtual Device contains all of the information that the emulator needs to simulate an Android device. 
 In Android Studio, click **Tools > AVD Manager**  
 ![AVD Manager Location](https://github.com/joshdickie/NDIS-support-app/doobledeedoo)
@@ -43,7 +43,7 @@ The **Verify Configuration** page opens.
 
 Click **Finish**.
 
-#### Start the Emulator
+### Start the Emulator
 With a [Virtual Device](#create-a-virtual-device) created, select it in the target device drop-down menu.  
 ![Selecting Target Device](https://github.com/joshdickie/NDIS-support-app/doobledeedoo)
 
